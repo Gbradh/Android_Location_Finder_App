@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location_Finder_App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="write_any_place_name">Write any place name...</string>
+</resources>
